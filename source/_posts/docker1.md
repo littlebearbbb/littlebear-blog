@@ -4,7 +4,7 @@ date: 2018-01-13 11:32:02
 tags: docker
 ---
 #### 简介
->该文为node.js官网提供的将nodejs构建在docker的简单翻译，可以作为docker最简单的入门，本文并没有docker安装的具体内容，安装docker请查看docker安装文档
+>该文为node.js官网提供的将nodejs构建在docker的简单翻译，可以作为docker最简单的入门，本文并没有docker安装的具体内容，安装docker请查看docker安装文档
 
 #### 1.创建node app服务
 package.json内容如下所示
